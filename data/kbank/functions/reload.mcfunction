@@ -1,5 +1,8 @@
 #> kbank:reload
 
+# Tellraw
+tellraw @a {"text":"[Koori] Banking Module","color":"#b38781"}
+
 # Objectives
 scoreboard objectives add k.Values dummy
 scoreboard objectives add k.Bank dummy
